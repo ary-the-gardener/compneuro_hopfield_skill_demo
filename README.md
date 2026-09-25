@@ -1,2 +1,3 @@
-# compneuro_hopfield_skill_demo
-Team 8 - Sept 29 Skill Demonstration on 
+# Skill Demonstration on [PAPER TITLE] 
+Team 8: Aryana Ramos-Vazquez, Ivan-Alexander Kroumov, and Bohan Chen
+
